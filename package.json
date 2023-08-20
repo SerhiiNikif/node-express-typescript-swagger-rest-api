@@ -1,5 +1,5 @@
 {
-  "name": "express-typescript-swagger-rest-api",
+  "name": "todo-list-swagger-docker",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
