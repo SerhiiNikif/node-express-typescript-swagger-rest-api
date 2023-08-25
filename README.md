@@ -1,4 +1,4 @@
-# todo-list-swagger-docker
+# todo-list-express
 
 This is a restful-api for two types of users - `ADMIN`, `USER`. Two models are implemented: users and to-do lists. You can register/login. You can also reset your passwor, after which you will receive an email. After logging in, each user can create to-do lists. A usual user can perform CRUD operations on their profile and only for their to-do lists, an administrator can perform CRUD operations on any users and to-do lists.
 # Knowledge Cover
@@ -22,13 +22,13 @@ This is a restful-api for two types of users - `ADMIN`, `USER`. Two models are i
 
 ## 1. Clone Project into your local machine
 ```
-git clone https://github.com/SerhiiNikif/todo-list-swagger-docker.git
+git clone https://github.com/SerhiiNikif/todo-list-express.git
 ```
 
 ## 2. Go into project folder
 
 ```
-cd todo-list-swagger-docker
+cd todo-list-express
 ```
 
 ## 3. Setting environment file .env.
